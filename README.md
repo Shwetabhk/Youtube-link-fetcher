@@ -3,10 +3,15 @@ Description -
 
 to run:
     open terminal:
+        
         python3 Youtube-links.py
+        
         input channel id : UCojdkaXIFwXw7XW7-wc7obQ
+        
         Enter name of csv file : Avenged Sevenfold
     
-You will get two seperate files in your current working directory.
-Avenged Sevenfold.csv
-Avenged SevenfoldRelated.csv
+You will get two seperate files in your current working directory:
+        
+        Avenged Sevenfold.csv
+
+        Avenged SevenfoldRelated.csv
